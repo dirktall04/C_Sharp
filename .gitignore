@@ -1,3 +1,14 @@
+# Compiled files
+*.dll
+*.pdb
+*.cache
+
+# Temporary files
+*TemporaryGeneratedFile*
+
+# Config Files
+*.config
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db

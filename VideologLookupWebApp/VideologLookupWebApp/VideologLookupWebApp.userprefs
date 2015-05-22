@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="VideologLookupWebApp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="FirefoxHTML" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="web.config">
+    <Files>
+      <File FileName="..\..\..\..\Users\dtalley\Documents\Projects\AspNetWebApp\AspNetWebApp\Default.aspx" Line="1" Column="1" />
+      <File FileName="..\..\..\..\Users\dtalley\Documents\Projects\AspNetWebApp\AspNetWebApp\Default.aspx.designer.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\Users\dtalley\Documents\Projects\AspNetWebApp\AspNetWebApp\web.config" Line="1" Column="1" />
+      <File FileName="..\..\..\..\Users\dtalley\Documents\Projects\AspNetWebApp\AspNetWebApp\Default.aspx.cs" Line="1" Column="1" />
+      <File FileName="Global.asax" Line="1" Column="1" />
+      <File FileName="Global.asax.cs" Line="1" Column="1" />
+      <File FileName="web.config" Line="4" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

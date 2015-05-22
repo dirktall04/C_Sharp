@@ -1,0 +1,6 @@
+C:\GIS\C_Sharp\VideologLookupWebApp\VideologLookupWebApp\bin\Oracle.DataAccess.dll
+C:\GIS\C_Sharp\VideologLookupWebApp\VideologLookupWebApp\obj\Debug\VideologLookupWebApp.csprojResolveAssemblyReference.cache
+C:\GIS\C_Sharp\VideologLookupWebApp\VideologLookupWebApp\bin\VideologLookupWebApp.dll
+C:\GIS\C_Sharp\VideologLookupWebApp\VideologLookupWebApp\bin\VideologLookupWebApp.pdb
+C:\GIS\C_Sharp\VideologLookupWebApp\VideologLookupWebApp\obj\Debug\VideologLookupWebApp.dll
+C:\GIS\C_Sharp\VideologLookupWebApp\VideologLookupWebApp\obj\Debug\VideologLookupWebApp.pdb
